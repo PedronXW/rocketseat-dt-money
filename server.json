@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-15T16:27:31.180Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburgueria Pizzy",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-07-15T16:27:31.180Z"
+    },
+    {
+      "id": "3",
+      "description": "Aluguel do Apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1000,
+      "createdAt": "2023-07-15T16:27:31.180Z"
+    },
+    {
+      "description": "cascas",
+      "price": 27275,
+      "category": "casdcdac",
+      "type": "income",
+      "createdAt": "2023-07-16T01:31:31.385Z",
+      "id": "QweQNS-"
+    },
+    {
+      "description": "Arroz doce",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-16T01:39:04.413Z",
+      "id": "XM4IP-U"
+    }
+  ]
+}
